@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 char money='A'  이걸 single quote라고 한다
 
 
@@ -9,3 +10,5 @@ int a=34*74;
 char A= (1>2) ? 'B' : 'C' 
 
 차근 차근히 공부하는중이다.
+=======
+>>>>>>> branch 'master' of https://github.com/mjaysonnn/TID.git
