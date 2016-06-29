@@ -25,3 +25,20 @@ arraylist의 size를 쓴다 Arraylist.size()
 for(Integer grade : Grades) for(integer grade: Grades)
 
 Hashmap은 put을 쓴다. Hashmap은 put을 쓴다.
+
+
+add를 쓴다.. Arraylist.add
+
+arraylist의 size를 쓴다 Arraylist.size()
+
+드디어 for문을 배운다.
+
+for(Integer grade : Grades) for(integer grade: Grades)
+
+Hashmap은 put을 쓴다. Hashmap은 put을 쓴다.
+
+get을 쓴다.
+
+size()이다.
+
+keySet()이다
