@@ -12,3 +12,5 @@ char A= (1>2) ? 'B' : 'C'
 차근 차근히 공부하는중이다.
 =======
 >>>>>>> branch 'master' of https://github.com/mjaysonnn/TID.git
+
+생성자와 그에 따른 함수 다시 복습중이다.
