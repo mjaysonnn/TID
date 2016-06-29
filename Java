@@ -14,3 +14,14 @@ char A= (1>2) ? 'B' : 'C'
 >>>>>>> branch 'master' of https://github.com/mjaysonnn/TID.git
 
 생성자와 그에 따른 함수 다시 복습중이다.
+
+
+add를 쓴다.. Arraylist.add
+
+arraylist의 size를 쓴다 Arraylist.size()
+
+드디어 for문을 배운다.
+
+for(Integer grade : Grades) for(integer grade: Grades)
+
+Hashmap은 put을 쓴다. Hashmap은 put을 쓴다.
