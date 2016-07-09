@@ -1,0 +1,14 @@
+$은 Shell Prompt를 뜻한다.
+
+pwd print working directory
+
+cd jan/memory/ 이렇게도 가능
+
+mkdir make directory
+
+touch means make a text
+
+cd ../.. 가능하
+
+다른 파일에 만대는 touch home/a.txt
+
