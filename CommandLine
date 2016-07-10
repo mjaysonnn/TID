@@ -12,3 +12,29 @@ cd ../.. 가능하
 
 다른 파일에 만대는 touch home/a.txt
 
+-----------------
+
+ls -a 는 뭘까?
+
+ls -l table이다 
+
+right own node개수 username own name 크기 수정날짜 파일이
+
+두 개를 복사해서 다른 폴더에 넣고 싶을떄는 
+cp biopic/ray.txt biopic/notorious.txt historical/
+
+이렇게 하면 된다
+
+ls -alt
+
+
+cp * satire/
+
+
+cp m*.txt satire/
+
+이름 바꾸는 것도 mv superman.txt spiderman.txt
+
+-r 는 recursive입니다.child까지 지우는 것이다.
+
+These special characters are called wildcards.
