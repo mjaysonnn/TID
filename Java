@@ -57,3 +57,57 @@ ArrayList<Integer>();
 
 HashMap<key, value> h=new Hashmap<key, value>();
 -------------------
+MyClass c1 = new MyClass(10, 20.5);
+    MyClass c2 = new MyClass(10, 31.5);
+    c2 = c1; 
+    
+    
+    
+    
+    c2 now refers to the same object as c1, so the change to c1 effectively impacts c2.
+    
+    
+    ----------------------
+    
+    
+    public class Person 
+{
+  private String name;
+
+  public Person(String n) 
+  {
+    this.name = n;
+  }
+
+  public String toString() 
+  {
+    return name;
+  }
+}
+
+
+
+Printing an object calls its toString method which, in this case, returns the name "Clarissa".
+
+
+
+----------------------------
+
+ Strings in Java are objects, so they're not primitive types they're object types. 
+ 
+ 
+ 그래서 String text=new String("Hello World");
+ 
+ heap이뭐더라 ?
+ 
+ 힙(heap)은 최댓값 및 최솟값을 찾아내는 연산을 빠르게 하기 위해 고안된 완전이진트리(Complete binary tree)를 기본으로 한 자료구조(tree-based structure)로서 다음과 같은 힙 속성(property)을 만족한다.
+ 
+ Object가 생기면 heap에 들어가고 variable은 object를 참고한다
+ 
+ Strings are immutable they can't never be changed
+ 
+ once they are in the heap, they never can be changed.
+ -----------------------
+ 
+ 
+ 

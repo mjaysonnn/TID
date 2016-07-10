@@ -12,3 +12,80 @@ cd ../.. 가능하
 
 다른 파일에 만대는 touch home/a.txt
 
+-----------------
+
+ls -a 는 뭘까?
+
+ls -l table이다 
+
+right own node개수 username own name 크기 수정날짜 파일이
+
+두 개를 복사해서 다른 폴더에 넣고 싶을떄는 
+cp biopic/ray.txt biopic/notorious.txt historical/
+
+이렇게 하면 된다
+
+ls -alt
+
+
+cp * satire/
+
+
+cp m*.txt satire/
+
+이름 바꾸는 것도 mv superman.txt spiderman.txt
+
+-r 는 recursive입니다.child까지 지우는 것이다.
+
+These special characters are called wildcards.
+
+--------------
+
+Copy the file vine.txt to pencils/color.txt. The relative path of the latter is ../pencils/color.txt.
+Hint
+cp vine.txt ../pencils/color.txt
+
+이렇게 cp할때 directory가 다르면 ../pencils/이렇게 해준
+-----------------
+cp f*이렇게도 쓰인다. 
+
+cat는
+contents of a file to terminal인거같다
+
+
+cat oceans.txt > continest.txt
+
+oceans.txt라는 input이 continets.txt로 간다
+
+----------------
+
+> 이거는 그냥 옮기는것이고
+
+
+>> 이거는 추가하는 것이다
+
+
+
+| 는 pipe된다는 것이다. 좀 애매하네.
+
+sort a.txt  sort팅 되구나
+
+uniq a.txt  sort되구나.
+
+-------------------
+grep stands for "global regular expression print". 
+
+
+grep: searches for a text pattern and outputs it.
+sed : searches for a text pattern, modifies it, and outputs it.
+
+
+sed 마지막에 /g 붙이면 모든 단어를 replace
+
+안 붙이면 첫번째 라인만 바꾼다
+
+grep -R  Recursive
+
+grep -RL  파일이름이다
+----------------------------------
+
