@@ -48,3 +48,12 @@ keySet()이다
 myDroid.proejct();
 
 이렇게 이렇게 하면 된다.
+----------------
+Integer grade:Grade
+
+
+ArrayList<Integer>();
+
+
+HashMap<key, value> h=new Hashmap<key, value>();
+-------------------
