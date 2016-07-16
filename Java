@@ -109,5 +109,21 @@ Printing an object calls its toString method which, in this case, returns the na
  once they are in the heap, they never can be changed.
  -----------------------
  
- 
+ public class Question2 {
+   public static void main(String[] args) {
+      int a = 5;
+      int b = 7;
+      swap(a,b);
+      System.out.println(a + ", " + b);
+   }
+   public static void swap(int a, int b) {
+      int temp = a;
+      a = b;
+      b = temp;
+   }
+}
+
+Great! Java is pass by value, so the swap method only swaps the parameters a and b, not the original values of a and b in main.
+
+----------------------
  

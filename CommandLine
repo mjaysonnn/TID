@@ -37,6 +37,7 @@ cp m*.txt satire/
 
 -r 는 recursive입니다.child까지 지우는 것이다.
 
+<<<<<<< HEAD
 These special characters are called wildcards.
 
 --------------
@@ -89,3 +90,6 @@ grep -R  Recursive
 grep -RL  파일이름이다
 ----------------------------------
 
+=======
+These special characters are called wildcards.
+>>>>>>> branch 'master' of https://github.com/mjaysonnn/TID.git
